@@ -1,1 +1,5 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus venenatis dictum nunc vitae euismod. Vestibulum vitae mauris hendrerit leo elementum tristique in nec quam. Integer scelerisque auctor nulla luctus lacinia. Morbi auctor mi a pulvinar venenatis. Nulla at ligula a risus dapibus laoreet.
+<!doctype html>
+<html class="no-js">
+
+<head></head>
+<body>Testiranje commita.</body>
