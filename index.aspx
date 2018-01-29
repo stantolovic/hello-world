@@ -5,7 +5,9 @@
 	<title>Index file</title>
 </head>
 <body>
+<header>Header</header>
 <h1>Index page</h1>
 <h2>Podnaslov</h2>
-<p>Sadržaja web stranice...</p>
+<p>Sadržaj web stranice...</p>
+<footer>Footer</footer>
 </body>
